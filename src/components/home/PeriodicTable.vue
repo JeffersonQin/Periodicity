@@ -80,7 +80,7 @@
             oncontextmenu="return false;"
             style="z-index: 2"
         >
-            <router-link :to="{ path: '/element/' + element.atomicNumber}" class="routerWrap">
+            <router-link :to="{ path: '/periodicity/element/' + element.atomicNumber}" class="routerWrap">
                 <ElementCard
                     :mode.sync="mode"
                     :element="element"
@@ -113,7 +113,7 @@
             oncontextmenu="return false;"
             style="z-index: 2"
         >
-            <router-link :to="{ path: '/element/' + element.atomicNumber}" class="routerWrap">
+            <router-link :to="{ path: '/periodicity/element/' + element.atomicNumber}" class="routerWrap">
                 <ElementCard
                     :mode.sync="mode"
                     :element="element"

@@ -48,3 +48,12 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+
+## Changes Done
+
+This project is a forked project for personal use. ([Demonstration](https://gyrojeff.top/periodicity/)) The changes demonstrate here may lead you to a solution to the problem of getting this project onto your server with a domain like `xxx.xxx/xxx`. As this project has used the tricks like `pjax`, some code has to be modified in order to redirect the links to the correct ones.
+
+For the modification done here, you can simply check the history version of this project, or the commit history. Good luck.
+
+If you have any trouble or advice, feel free to contact me. E-mail: 1247006353@qq.com; Website: https://gyrojeff.top/
